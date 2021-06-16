@@ -8,7 +8,7 @@ Hi, I'm a technology loving guy with a passion to teach. I want to see Indonesia
 
 - 🔭 I’m currently working on creating future tech talent in Indonesia
 - 🌱 I’m currently learning Python for data analysis
-- 📫 How to reach me: [alvianzf@gmail.com](mailto:alvianzf@gmail.com)...
+- 📫 How to reach me: [alvianzf@gmail.com](mailto:alvianzf@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&hide_title=true&show_owner=true)](https://github.com/alvianzf/alvianzf)
 
