@@ -23,13 +23,13 @@ Hi, I'm a technology loving guy with a passion to teach. I want to see Indonesia
 | ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a) | Intermediate |
 
 
-| Tools | |
+| Tools | Description|
 |-------|------------|
-|![](https://img.shields.io/badge/VCS-git-informational?style=flat&logo=git&logoColor=red&color=2bbc8a) | | 
-|![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=red&color=2bbc8a) | |
+|![](https://img.shields.io/badge/VCS-git-informational?style=flat&logo=git&logoColor=red&color=2bbc8a) | Github, Gitlab, CLI| 
+|![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=red&color=2bbc8a) | Markdown, XHTML|
 |![](https://img.shields.io/badge/Styling-SASS-informational?style=flat&logo=sass&logoColor=pink&color=2bbc8a) | |
 |![](https://img.shields.io/badge/Styling-LESS-informational?style=flat&logo=less&logoColor=white&color=2bbc8a) | |
-| ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=red&color=2bbc8a) | |
+| ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=red&color=2bbc8a) | Currently on Ubuntu 20|
 
 
 #### 🌱 What I'm Learning
