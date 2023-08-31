@@ -2,13 +2,16 @@
 ### I'm Alvian Zachry Faturrahman
 #### But you can call me Alvian
 
-Hi, I'm a technology loving guy with a passion to teach. I want to see Indonesia brimming with tech talents, and willing to take steps to achieve that. Contact me if you have any crazy ideas to make this a reality!
+#### About me:
+Hi, I'm a technology loving guy with a passion to teach. I want to see Indonesia brimming with tech talents, and willing to take steps to achieve that. Contact me if you have any crazy ideas to make this a reality! I'm also interested in React, Golang, Python for data, and Node.Js.
 
-#### About me:  
-
-- 🔭 I’m currently working on creating future tech talent in Indonesia
-- 🌱 I’m currently learning Python for data analysis
-- 📫 How to reach me: [alvianzf@gmail.com](mailto:alvianzf@gmail.com)
+####  ⚙️Skills
+- ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=blue&color=2bbc8a) Advanced
+- ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a) Advanced
+- ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=typescript&logoColor=yellow&color=2bbc8a) Intermediate
+- ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=python&logoColor=yellow&color=2bbc8a) Intermediate
+- ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=typescript&logoColor=yellow&color=2bbc8a) Intermediate
+- 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&hide_title=true&show_owner=true)](https://github.com/alvianzf/alvianzf)
 
