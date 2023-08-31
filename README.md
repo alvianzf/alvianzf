@@ -49,7 +49,7 @@ You can connect with me on:
 - 🔗 [LinkedIn](https://linkedin.com/in/alvianzf)
 - ✉️ Email: alvianzf@gmail.com
 - 🐦 Twitter: @alvianzf
-- Portfolio: [Github Page](https://alvianzf.github.io/)
+- 📊 Portfolio: [Github Page](https://alvianzf.github.io/)
 
 #### 🚀 My GitHub Stats
 
