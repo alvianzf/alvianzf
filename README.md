@@ -37,6 +37,7 @@ I'm currently enhancing my skills in:
 -  ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=007acc&color=2bbc8a)
 - ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=orange&color=2bbc8a)
 - ![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=blue&color=2bbc8a)
+- 🧹 Clean architecture
 
 #### 🔭 What I'm Currently Working On
 - [TiketQ](https://github.com/alvianzf/tiketq-api-gateway) - An API gateway that handles data from an external API.
