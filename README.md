@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Alvian Zachry Faturrahman
-##### But you can call me Alvian
+##### But you can call me Ary
 -------
 
 #### About me:
