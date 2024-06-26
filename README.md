@@ -48,9 +48,12 @@ You can connect with me on:
 
 #### 🚀 My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&hide_title=true&show_owner=true&theme=radical)](https://github.com/alvianzf)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvianzf&layout=compact&langs_count=10&theme=radical)](https://github.com/alvianzf)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&rank_icon=github&custom_title=My%20Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvianzf&layout=pie&langs_count=8&card_width=320" />
+</a>
 
 
 #### 🤝 Let's Connect!
