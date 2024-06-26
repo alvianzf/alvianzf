@@ -6,7 +6,7 @@
 -------
 
 #### About Me
-I'm a technology enthusiast with a passion for teaching. My goal is to see Indonesia brimming with tech talent, and I'm eager to collaborate on innovative ideas to make this a reality. I have a strong interest in React, Golang, Python for data, and Node.js.
+I'm Ary, a passionate technology enthusiast dedicated to fostering tech talent in Indonesia. My goal is to cultivate a thriving community of developers by collaborating on innovative projects. I'm particularly interested in React for frontend development, Golang for backend solutions, leveraging Python for data analysis, and exploring the versatility of Node.js.
 
 #### ⚙️ Skills
 | Programming Language | Proficiency |
