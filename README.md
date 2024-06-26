@@ -47,9 +47,11 @@ You can connect with me on:
 
 
 #### 🚀 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&hide_title=true&show_owner=true)](https://github.com/alvianzf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvianzf&langs_count=10&layout=compact)](https://github.com/alvianzf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&hide_title=true&show_owner=true&theme=radical)](https://github.com/alvianzf)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvianzf&layout=compact&langs_count=10&theme=radical)](https://github.com/alvianzf)
+
 
 #### 🤝 Let's Connect!
 Feel free to explore my work and connect with me. Let's learn and grow together in the world of technology! 🌐
