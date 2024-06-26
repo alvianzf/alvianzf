@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./alvian-banner.png)
 
 ### Hi there 👋
 ### I'm Alvian Zachry Faturrahman
