@@ -1,9 +1,6 @@
 ![Header](./alvian-banner.png)
 
-### Hi there 👋
-### I'm Alvian Zachry Faturrahman
-##### But you can call me Ary
--------
+# You can call me Ary
 
 #### About Me
 I'm Ary, a passionate technology enthusiast dedicated to fostering tech talent in Indonesia. My goal is to cultivate a thriving community of developers by collaborating on innovative projects. I'm particularly interested in React for frontend development, Golang for backend solutions, leveraging Python for data analysis, and exploring the versatility of Node.js.
