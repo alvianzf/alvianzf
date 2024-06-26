@@ -34,16 +34,17 @@ I'm Ary, a passionate technology enthusiast dedicated to fostering tech talent i
 
 
 #### 🔭 What I'm Currently Working On
-- [TiketQ](https://github.com/alvianzf/tiketq-api-gateway) - An API gateway that handles data from an external API.
-- [Tick PHP](https://github.com/alvianzf/tick-php-framework) - My own lightweight PHP framework, developed from scratch as a side project.
+- 🎟️ [TiketQ](https://github.com/alvianzf/tiketq-api-gateway) - Developing an API gateway to manage external API data efficiently.
+- 🚀 [Tick PHP](https://github.com/alvianzf/tick-php-framework) - Creating Tick PHP, a lightweight PHP framework built from scratch as a personal project.
 
 #### 📫 How to Reach Me
 You can connect with me on:
 - 🔸 [GitHub](https://github.com/alvianzf)
 - 🔗 [LinkedIn](https://linkedin.com/in/alvianzf)
 - ✉️ Email: alvianzf@gmail.com
-- 🐦 Twitter: @alvianzf
+- 🐦 Twitter: [@alvianzf](https://twitter.com/alvianzf)
 - 📊 Portfolio: [GitHub Page](https://alvianzf.github.io/)
+
 
 #### 🚀 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&hide_title=true&show_owner=true)](https://github.com/alvianzf)
