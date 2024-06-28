@@ -58,7 +58,7 @@ I'm Ary, a passionate technology enthusiast dedicated to fostering tech talent i
 
 
 #### 🔭 What I'm Currently Working On
-- 🎟️ [TiketQ](https://github.com/alvianzf/tiketq-api-gateway) - Developing an API gateway to manage external API data efficiently.
+- 🎟️ [TiketQ](https://github.com/alvianzf/tiketq-bosbiller) - Developing an API gateway to manage external API data efficiently.
 - 🚀 [Tick PHP](https://github.com/alvianzf/tick-php-framework) - Creating Tick PHP, a lightweight PHP framework built from scratch as a personal project.
 
 #### 📫 How to Reach Me
