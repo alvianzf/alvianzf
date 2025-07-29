@@ -67,7 +67,7 @@ You can connect with me on:
 - 🔗 [LinkedIn](https://linkedin.com/in/alvianzf)
 - ✉️ Email: alvianzf@gmail.com
 - 🐦 Twitter: [@alvianzf](https://twitter.com/alvianzf)
-- 📊 Portfolio: [GitHub Page](https://alvianzf.github.io/)
+- 📊 Portfolio: [Personal Page](https://alvianzf.vercel.app/)
 
 
 #### 🚀 My GitHub Stats
