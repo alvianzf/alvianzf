@@ -107,7 +107,7 @@ My stack is JavaScript. And PHP. And TypeScript. And Python. No, I haven't fully
 *the top languages chart will tell you more about me than I'd like*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&rank_icon=github&custom_title=My%20Stats" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&rank_icon=github&custom_title=My%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvianzf&layout=pie&langs_count=8&card_width=320" />
