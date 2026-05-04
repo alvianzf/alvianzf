@@ -117,7 +117,7 @@ A PHP framework I built from scratch because apparently there weren't enough of 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alvianzf&theme=flat&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![alvianzf's github activity graph](https://vercel.app)](https://github.com)
+[![alvianzf's github activity graph](https://vercel.app)](https://github.com/alvianzf)
 
 
 
