@@ -117,6 +117,9 @@ A PHP framework I built from scratch because apparently there weren't enough of 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alvianzf&theme=flat&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Metrics](https://lecoq.io)
+
+
 ---
 
 ## 📫 How to Reach Me
