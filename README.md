@@ -117,17 +117,6 @@ A PHP framework I built from scratch because apparently there weren't enough of 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alvianzf&theme=flat&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
-<details>
-<summary>More stats (may load slowly, rate limits are a known issue, not a me issue)</summary>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alvianzf&show_icons=true&rank_icon=github&custom_title=My%20Stats&cache_seconds=1800" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvianzf&layout=pie&langs_count=8&card_width=320&cache_seconds=1800" />
-</a>
-</details>
-
 ---
 
 ## 📫 How to Reach Me
